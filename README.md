@@ -15,6 +15,9 @@ This is a REST interface to enable the smartplug and read the plug consumption.
 ## Video Pitch :
 https://www.youtube.com/watch?v=GkWp8wVPy4U
 
+## Project Slide :
+https://drive.google.com/file/d/1EtNJdcJsDGzC1qliRMvh2uvLOES4Cb2S/
+
 ## Project Description: 
 Premessa: La logistica e la ricarica legati alla green mobility, non sempre sono completamente green. Le società di sharing di monopattini giornalmente utilizzano furgoni per riallocare i mezzi ricaricati. I proprietari dei monopattini non hanno possibilità per ricaricare i loro mezzi in luoghi pubblici.
 
