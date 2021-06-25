@@ -4,7 +4,9 @@
 ## App demo
 ![Alt Text](https://github.com/justBorn/pluggy/blob/d3a09e7b17bb57676976c7f80a32c7085a4f1cb0/demo-assets/app-small.gif?raw=true)
 
+## Hardware and Dashboard demo
 
+![Alt Text](https://github.com/justBorn/pluggy/blob/f9db9703ea81b98a63d3f7d969d85bc599dde17c/demo-assets/hardware-demo-small.gif?raw=true)
 
 
 ## Project Description: 
