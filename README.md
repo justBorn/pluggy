@@ -2,6 +2,8 @@
 
 
 ## App demo
+![Alt Text](https://github.com/justBorn/pluggy/blob/d3a09e7b17bb57676976c7f80a32c7085a4f1cb0/demo-assets/app-small.gif?raw=true)
+
 
 
 
