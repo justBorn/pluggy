@@ -89,11 +89,11 @@ function initMap() {
         marker.addListener("click", () => {
             map.setZoom(20);
             map.setCenter(marker.getPosition());
-            infowindow.open({
-                anchor: marker,
-                map,
-                shouldFocus: false,
-            });
+            // infowindow.open({
+            //     anchor: marker,
+            //     map,
+            //     shouldFocus: false,
+            // });
         });
     }
 }
