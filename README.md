@@ -8,7 +8,8 @@ HTML5 hybrid app (phonegap wrapper) che chiama API sul Backend sviuppato in pyth
 
 ## Hardware and Dashboard demo
 Python backend based on the non officilal API of this device https://amzn.to/2SYBuVK.
-This is a REST interface to enable the smartplug and read the plug consumption 
+This is a REST interface to enable the smartplug and read the plug consumption.
+
 ![Alt Text](https://github.com/justBorn/pluggy/blob/f9db9703ea81b98a63d3f7d969d85bc599dde17c/demo-assets/hardware-demo-small.gif?raw=true)
 
 ## Video Pitch :
