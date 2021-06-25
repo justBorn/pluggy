@@ -10,6 +10,8 @@ HTML5 hybrid app (phonegap wrapper) che chiama API sul Backend sviuppato in pyth
 Python backend based on the non officila API of this device https://amzn.to/2SYBuVK 
 ![Alt Text](https://github.com/justBorn/pluggy/blob/f9db9703ea81b98a63d3f7d969d85bc599dde17c/demo-assets/hardware-demo-small.gif?raw=true)
 
+## Video Pitch :
+https://www.youtube.com/watch?v=GkWp8wVPy4U
 
 ## Project Description: 
 I proprietari dei monopattini non hanno possibilità per ricaricare i loro mezzi in luoghi pubblici. La logistica e la ricarica legati alla green mobility, non sempre sono completamente green. Le società di sharing di monopattini giornalmente utilizzano furgoni per riallocare i mezzi ricaricati.
